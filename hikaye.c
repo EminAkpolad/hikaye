@@ -22,7 +22,7 @@ printf("Soğuk bir kış akşamıydı\nKar giderek şiddetleniyordu. 2 kardeş b
           //Eftal taha karataş
           //Oğuzhan koylan
           //Hasret arslan
-          //Emin Akpolad
+          printf("Köyde, bir gece aniden yangın çıktı. Hızla yayılan alevler, her şeyi yutarken, Ahmet küçük kardeşiyle birlikte evin alt katında mahsur kaldı....");  //Emin Akpolad
           //Duygu Yüksel
 
   
