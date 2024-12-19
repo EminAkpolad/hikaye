@@ -25,7 +25,7 @@ printf("Soğuk bir kış akşamıydı\nKar giderek şiddetleniyordu. 2 kardeş b
           //Eftal taha karataş
           //Oğuzhan koylan
           //Hasret arslan
-          //Emin Akpolad
+          printf("Fatih Sultan Mehmet, İstanbul'u fethetmek için gemileri karadan yürütmeye karar verdi..");//Emin Akpolad
           //Duygu Yüksel
 
   
